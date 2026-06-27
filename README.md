@@ -2,6 +2,9 @@
 
 AI-powered stock market analysis web app that generates BUY, HOLD, and SELL recommendations from historical Yahoo Finance prices, technical indicators, NewsAPI sentiment, VADER, and a Random Forest classifier.
 
+## Live Demo:
+https://stockanalysis-pzrgylmvgvdlohkcnurq42.streamlit.app/
+
 ## Features
 
 - Live historical OHLCV data from Yahoo Finance.
